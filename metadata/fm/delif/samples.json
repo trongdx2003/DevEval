@@ -1,0 +1,948 @@
+{
+    "s1": {
+        "completion_path": "Communications/Telethon/telethon/_updates",
+        "prompt": "Delete all `.py` files in the Python package `Communications/Telethon/telethon/_updates` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/Telethon/telethon/_updates/compare.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/autogenerate/compare.py"
+        ],
+        "need_read": [
+            "Communications/Telethon/telethon/_updates/__init__.py",
+            "Communications/Telethon/telethon/_updates/compare.py",
+            "Communications/Telethon/telethon/_updates/entitycache.py",
+            "Communications/Telethon/telethon/_updates/messagebox.py",
+            "Communications/Telethon/telethon/_updates/session.py"
+        ]
+    },
+    "s2": {
+        "completion_path": "Communications/Telethon/telethon/errors",
+        "prompt": "Delete all `.py` files in the Python package `Communications/Telethon/telethon/errors` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/Telethon/telethon/errors/render.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/autogenerate/render.py"
+        ],
+        "need_read": [
+            "Communications/Telethon/telethon/errors/__init__.py",
+            "Communications/Telethon/telethon/errors/common.py",
+            "Communications/Telethon/telethon/errors/render.py",
+            "Communications/Telethon/telethon/errors/rpcbaseerrors.py",
+            "Communications/Telethon/telethon/errors/rpcerrorlist.py"
+        ]
+    },
+    "s3": {
+        "completion_path": "Database/alembic/alembic/script",
+        "prompt": "Delete all `.py` files in the Python package `Database/alembic/alembic/script` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Database/alembic/alembic/script/parameters.py"
+        ],
+        "taken_from": [
+            "Internet/Authlib/authlib/oauth2/rfc6749/parameters.py"
+        ],
+        "need_read": [
+            "Database/alembic/alembic/script/__init__.py",
+            "Database/alembic/alembic/script/base.py",
+            "Database/alembic/alembic/script/parameters.py",
+            "Database/alembic/alembic/script/revision.py",
+            "Database/alembic/alembic/script/write_hooks.py"
+        ]
+    },
+    "s4": {
+        "completion_path": "Internet/Authlib/authlib/integrations/django_oauth1",
+        "prompt": "Delete all `.py` files in the Python package `Internet/Authlib/authlib/integrations/django_oauth1` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Internet/Authlib/authlib/integrations/django_oauth1/datageometry.py"
+        ],
+        "taken_from": [
+            "Multimedia/hypertools/hypertools/datageometry.py"
+        ],
+        "need_read": [
+            "Internet/Authlib/authlib/integrations/django_oauth1/__init__.py",
+            "Internet/Authlib/authlib/integrations/django_oauth1/authorization_server.py",
+            "Internet/Authlib/authlib/integrations/django_oauth1/datageometry.py",
+            "Internet/Authlib/authlib/integrations/django_oauth1/nonce.py",
+            "Internet/Authlib/authlib/integrations/django_oauth1/resource_protector.py"
+        ]
+    },
+    "s5": {
+        "completion_path": "Multimedia/Mopidy/mopidy/m3u",
+        "prompt": "Delete all `.py` files in the Python package `Multimedia/Mopidy/mopidy/m3u` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Multimedia/Mopidy/mopidy/m3u/usage_stats.py"
+        ],
+        "taken_from": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/utils/analytics/usage_stats.py"
+        ],
+        "need_read": [
+            "Multimedia/Mopidy/mopidy/m3u/__init__.py",
+            "Multimedia/Mopidy/mopidy/m3u/backend.py",
+            "Multimedia/Mopidy/mopidy/m3u/playlists.py",
+            "Multimedia/Mopidy/mopidy/m3u/translator.py",
+            "Multimedia/Mopidy/mopidy/m3u/usage_stats.py"
+        ]
+    },
+    "s6": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners",
+        "prompt": "Delete all `.py` files in the Python package `Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners/k_means.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/models/k_means.py"
+        ],
+        "need_read": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners/__init__.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners/k_means.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners/stable_diffusion.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners/stable_diffusion_xl.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/frameworks/diffusers_runners/utils.py"
+        ]
+    },
+    "s7": {
+        "completion_path": "Security/barf/barf/analysis/graphs",
+        "prompt": "Delete all `.py` files in the Python package `Security/barf/barf/analysis/graphs` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Security/barf/barf/analysis/graphs/hadoop.py"
+        ],
+        "taken_from": [
+            "System/mrjob/mrjob/fs/hadoop.py"
+        ],
+        "need_read": [
+            "Security/barf/barf/analysis/graphs/__init__.py",
+            "Security/barf/barf/analysis/graphs/basicblock.py",
+            "Security/barf/barf/analysis/graphs/callgraph.py",
+            "Security/barf/barf/analysis/graphs/controlflowgraph.py",
+            "Security/barf/barf/analysis/graphs/hadoop.py"
+        ]
+    },
+    "s8": {
+        "completion_path": "Software-Development/Django/django/contrib/admin/migrations",
+        "prompt": "Delete all `.py` files in the Python package `Software-Development/Django/django/contrib/admin/migrations` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Software-Development/Django/django/contrib/admin/migrations/hadoop.py"
+        ],
+        "taken_from": [
+            "System/mrjob/mrjob/hadoop.py"
+        ],
+        "need_read": [
+            "Software-Development/Django/django/contrib/admin/migrations/0001_initial.py",
+            "Software-Development/Django/django/contrib/admin/migrations/0002_logentry_remove_auto_add.py",
+            "Software-Development/Django/django/contrib/admin/migrations/0003_logentry_add_action_flag_choices.py",
+            "Software-Development/Django/django/contrib/admin/migrations/__init__.py",
+            "Software-Development/Django/django/contrib/admin/migrations/hadoop.py"
+        ]
+    },
+    "s9": {
+        "completion_path": "System/flower/flower/api",
+        "prompt": "Delete all `.py` files in the Python package `System/flower/flower/api` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "System/flower/flower/api/os_release.py"
+        ],
+        "taken_from": [
+            "Utilities/jc/jc/parsers/os_release.py"
+        ],
+        "need_read": [
+            "System/flower/flower/api/__init__.py",
+            "System/flower/flower/api/control.py",
+            "System/flower/flower/api/os_release.py",
+            "System/flower/flower/api/tasks.py",
+            "System/flower/flower/api/workers.py"
+        ]
+    },
+    "s10": {
+        "completion_path": "Text-Processing/natasha/natasha/morph",
+        "prompt": "Delete all `.py` files in the Python package `Text-Processing/natasha/natasha/morph` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Text-Processing/natasha/natasha/morph/algorithms.py"
+        ],
+        "taken_from": [
+            "Utilities/PyJWT/jwt/algorithms.py"
+        ],
+        "need_read": [
+            "Text-Processing/natasha/natasha/morph/__init__.py",
+            "Text-Processing/natasha/natasha/morph/algorithms.py",
+            "Text-Processing/natasha/natasha/morph/lemma.py",
+            "Text-Processing/natasha/natasha/morph/tagger.py",
+            "Text-Processing/natasha/natasha/morph/vocab.py"
+        ]
+    },
+    "s11": {
+        "completion_path": "Utilities/gunicorn/gunicorn/app",
+        "prompt": "Delete all `.py` files in the Python package `Utilities/gunicorn/gunicorn/app` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Utilities/gunicorn/gunicorn/app/factory.py"
+        ],
+        "taken_from": [
+            "Communications/chatette/chatette/adapters/factory.py"
+        ],
+        "need_read": [
+            "Utilities/gunicorn/gunicorn/app/__init__.py",
+            "Utilities/gunicorn/gunicorn/app/base.py",
+            "Utilities/gunicorn/gunicorn/app/factory.py",
+            "Utilities/gunicorn/gunicorn/app/pasterapp.py",
+            "Utilities/gunicorn/gunicorn/app/wsgiapp.py"
+        ]
+    },
+    "s12": {
+        "completion_path": "Communications/Telethon/telethon/extensions",
+        "prompt": "Delete all `.py` files in the Python package `Communications/Telethon/telethon/extensions` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/Telethon/telethon/extensions/compare.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/autogenerate/compare.py"
+        ],
+        "need_read": [
+            "Communications/Telethon/telethon/extensions/__init__.py",
+            "Communications/Telethon/telethon/extensions/binaryreader.py",
+            "Communications/Telethon/telethon/extensions/compare.py",
+            "Communications/Telethon/telethon/extensions/html.py",
+            "Communications/Telethon/telethon/extensions/markdown.py",
+            "Communications/Telethon/telethon/extensions/messagepacker.py"
+        ]
+    },
+    "s13": {
+        "completion_path": "Database/alembic/alembic/autogenerate",
+        "prompt": "Delete all `.py` files in the Python package `Database/alembic/alembic/autogenerate` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Database/alembic/alembic/autogenerate/parameters.py"
+        ],
+        "taken_from": [
+            "Internet/Authlib/authlib/oauth2/rfc6749/parameters.py"
+        ],
+        "need_read": [
+            "Database/alembic/alembic/autogenerate/__init__.py",
+            "Database/alembic/alembic/autogenerate/api.py",
+            "Database/alembic/alembic/autogenerate/compare.py",
+            "Database/alembic/alembic/autogenerate/parameters.py",
+            "Database/alembic/alembic/autogenerate/render.py",
+            "Database/alembic/alembic/autogenerate/rewriter.py"
+        ]
+    },
+    "s14": {
+        "completion_path": "Internet/Authlib/authlib/common",
+        "prompt": "Delete all `.py` files in the Python package `Internet/Authlib/authlib/common` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Internet/Authlib/authlib/common/datageometry.py"
+        ],
+        "taken_from": [
+            "Multimedia/hypertools/hypertools/datageometry.py"
+        ],
+        "need_read": [
+            "Internet/Authlib/authlib/common/__init__.py",
+            "Internet/Authlib/authlib/common/datageometry.py",
+            "Internet/Authlib/authlib/common/encoding.py",
+            "Internet/Authlib/authlib/common/errors.py",
+            "Internet/Authlib/authlib/common/security.py",
+            "Internet/Authlib/authlib/common/urls.py"
+        ]
+    },
+    "s15": {
+        "completion_path": "Multimedia/Mopidy/mopidy/config",
+        "prompt": "Delete all `.py` files in the Python package `Multimedia/Mopidy/mopidy/config` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Multimedia/Mopidy/mopidy/config/usage_stats.py"
+        ],
+        "taken_from": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/utils/analytics/usage_stats.py"
+        ],
+        "need_read": [
+            "Multimedia/Mopidy/mopidy/config/__init__.py",
+            "Multimedia/Mopidy/mopidy/config/keyring.py",
+            "Multimedia/Mopidy/mopidy/config/schemas.py",
+            "Multimedia/Mopidy/mopidy/config/types.py",
+            "Multimedia/Mopidy/mopidy/config/usage_stats.py",
+            "Multimedia/Mopidy/mopidy/config/validators.py"
+        ]
+    },
+    "s16": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/bento",
+        "prompt": "Delete all `.py` files in the Python package `Scientific-Engineering/bentoml/src/bentoml/_internal/bento` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/k_means.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/models/k_means.py"
+        ],
+        "need_read": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/__init__.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/bento.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/build_config.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/build_dev_bentoml_whl.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/gen.py",
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/bento/k_means.py"
+        ]
+    },
+    "s17": {
+        "completion_path": "Security/oletools/oletools/common/log_helper",
+        "prompt": "Delete all `.py` files in the Python package `Security/oletools/oletools/common/log_helper` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Security/oletools/oletools/common/log_helper/hadoop.py"
+        ],
+        "taken_from": [
+            "System/mrjob/mrjob/fs/hadoop.py"
+        ],
+        "need_read": [
+            "Security/oletools/oletools/common/log_helper/__init__.py",
+            "Security/oletools/oletools/common/log_helper/_json_formatter.py",
+            "Security/oletools/oletools/common/log_helper/_logger_adapter.py",
+            "Security/oletools/oletools/common/log_helper/_root_logger_wrapper.py",
+            "Security/oletools/oletools/common/log_helper/hadoop.py",
+            "Security/oletools/oletools/common/log_helper/log_helper.py"
+        ]
+    },
+    "s18": {
+        "completion_path": "Software-Development/Django/django/contrib/gis/db/backends/base",
+        "prompt": "Delete all `.py` files in the Python package `Software-Development/Django/django/contrib/gis/db/backends/base` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Software-Development/Django/django/contrib/gis/db/backends/base/hadoop.py"
+        ],
+        "taken_from": [
+            "System/mrjob/mrjob/hadoop.py"
+        ],
+        "need_read": [
+            "Software-Development/Django/django/contrib/gis/db/backends/base/__init__.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/base/adapter.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/base/features.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/base/hadoop.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/base/models.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/base/operations.py"
+        ]
+    },
+    "s19": {
+        "completion_path": "System/flower/flower/utils",
+        "prompt": "Delete all `.py` files in the Python package `System/flower/flower/utils` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "System/flower/flower/utils/os_release.py"
+        ],
+        "taken_from": [
+            "Utilities/jc/jc/parsers/os_release.py"
+        ],
+        "need_read": [
+            "System/flower/flower/utils/__init__.py",
+            "System/flower/flower/utils/broker.py",
+            "System/flower/flower/utils/os_release.py",
+            "System/flower/flower/utils/search.py",
+            "System/flower/flower/utils/tasks.py",
+            "System/flower/flower/utils/template.py"
+        ]
+    },
+    "s20": {
+        "completion_path": "Text-Processing/PyLaTeX/pylatex/base_classes",
+        "prompt": "Delete all `.py` files in the Python package `Text-Processing/PyLaTeX/pylatex/base_classes` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Text-Processing/PyLaTeX/pylatex/base_classes/algorithms.py"
+        ],
+        "taken_from": [
+            "Utilities/PyJWT/jwt/algorithms.py"
+        ],
+        "need_read": [
+            "Text-Processing/PyLaTeX/pylatex/base_classes/__init__.py",
+            "Text-Processing/PyLaTeX/pylatex/base_classes/algorithms.py",
+            "Text-Processing/PyLaTeX/pylatex/base_classes/command.py",
+            "Text-Processing/PyLaTeX/pylatex/base_classes/containers.py",
+            "Text-Processing/PyLaTeX/pylatex/base_classes/float.py",
+            "Text-Processing/PyLaTeX/pylatex/base_classes/latex_object.py"
+        ]
+    },
+    "s21": {
+        "completion_path": "Utilities/mmcv/mmcv/utils",
+        "prompt": "Delete all `.py` files in the Python package `Utilities/mmcv/mmcv/utils` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Utilities/mmcv/mmcv/utils/factory.py"
+        ],
+        "taken_from": [
+            "Communications/chatette/chatette/adapters/factory.py"
+        ],
+        "need_read": [
+            "Utilities/mmcv/mmcv/utils/__init__.py",
+            "Utilities/mmcv/mmcv/utils/device_type.py",
+            "Utilities/mmcv/mmcv/utils/env.py",
+            "Utilities/mmcv/mmcv/utils/ext_loader.py",
+            "Utilities/mmcv/mmcv/utils/factory.py",
+            "Utilities/mmcv/mmcv/utils/parrots_jit.py"
+        ]
+    },
+    "s22": {
+        "completion_path": "Communications/aioxmpp/aioxmpp/entitycaps",
+        "prompt": "Delete all `.py` files in the Python package `Communications/aioxmpp/aioxmpp/entitycaps` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/aioxmpp/aioxmpp/entitycaps/compare.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/autogenerate/compare.py"
+        ],
+        "need_read": [
+            "Communications/aioxmpp/aioxmpp/entitycaps/__init__.py",
+            "Communications/aioxmpp/aioxmpp/entitycaps/caps115.py",
+            "Communications/aioxmpp/aioxmpp/entitycaps/caps390.py",
+            "Communications/aioxmpp/aioxmpp/entitycaps/common.py",
+            "Communications/aioxmpp/aioxmpp/entitycaps/compare.py",
+            "Communications/aioxmpp/aioxmpp/entitycaps/service.py",
+            "Communications/aioxmpp/aioxmpp/entitycaps/xso.py"
+        ]
+    },
+    "s23": {
+        "completion_path": "Communications/chatette/chatette/adapters",
+        "prompt": "Delete all `.py` files in the Python package `Communications/chatette/chatette/adapters` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/chatette/chatette/adapters/render.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/autogenerate/render.py"
+        ],
+        "need_read": [
+            "Communications/chatette/chatette/adapters/__init__.py",
+            "Communications/chatette/chatette/adapters/_base.py",
+            "Communications/chatette/chatette/adapters/factory.py",
+            "Communications/chatette/chatette/adapters/jsonl.py",
+            "Communications/chatette/chatette/adapters/rasa.py",
+            "Communications/chatette/chatette/adapters/rasa_md.py",
+            "Communications/chatette/chatette/adapters/render.py"
+        ]
+    },
+    "s24": {
+        "completion_path": "Communications/twilio-fatisar/twilio/http",
+        "prompt": "Delete all `.py` files in the Python package `Communications/twilio-fatisar/twilio/http` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/twilio-fatisar/twilio/http/command.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/command.py"
+        ],
+        "need_read": [
+            "Communications/twilio-fatisar/twilio/http/__init__.py",
+            "Communications/twilio-fatisar/twilio/http/async_http_client.py",
+            "Communications/twilio-fatisar/twilio/http/command.py",
+            "Communications/twilio-fatisar/twilio/http/http_client.py",
+            "Communications/twilio-fatisar/twilio/http/request.py",
+            "Communications/twilio-fatisar/twilio/http/response.py",
+            "Communications/twilio-fatisar/twilio/http/validation_client.py"
+        ]
+    },
+    "s25": {
+        "completion_path": "Database/alembic/alembic/operations",
+        "prompt": "Delete all `.py` files in the Python package `Database/alembic/alembic/operations` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Database/alembic/alembic/operations/parameters.py"
+        ],
+        "taken_from": [
+            "Internet/Authlib/authlib/oauth2/rfc6749/parameters.py"
+        ],
+        "need_read": [
+            "Database/alembic/alembic/operations/__init__.py",
+            "Database/alembic/alembic/operations/base.py",
+            "Database/alembic/alembic/operations/batch.py",
+            "Database/alembic/alembic/operations/ops.py",
+            "Database/alembic/alembic/operations/parameters.py",
+            "Database/alembic/alembic/operations/schemaobj.py",
+            "Database/alembic/alembic/operations/toimpl.py"
+        ]
+    },
+    "s26": {
+        "completion_path": "Internet/Authlib/authlib/integrations/django_oauth2",
+        "prompt": "Delete all `.py` files in the Python package `Internet/Authlib/authlib/integrations/django_oauth2` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Internet/Authlib/authlib/integrations/django_oauth2/datageometry.py"
+        ],
+        "taken_from": [
+            "Multimedia/hypertools/hypertools/datageometry.py"
+        ],
+        "need_read": [
+            "Internet/Authlib/authlib/integrations/django_oauth2/__init__.py",
+            "Internet/Authlib/authlib/integrations/django_oauth2/authorization_server.py",
+            "Internet/Authlib/authlib/integrations/django_oauth2/datageometry.py",
+            "Internet/Authlib/authlib/integrations/django_oauth2/endpoints.py",
+            "Internet/Authlib/authlib/integrations/django_oauth2/requests.py",
+            "Internet/Authlib/authlib/integrations/django_oauth2/resource_protector.py",
+            "Internet/Authlib/authlib/integrations/django_oauth2/signals.py"
+        ]
+    },
+    "s27": {
+        "completion_path": "Scientific-Engineering/cupy/cupy/_logic",
+        "prompt": "Delete all `.py` files in the Python package `Scientific-Engineering/cupy/cupy/_logic` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Scientific-Engineering/cupy/cupy/_logic/ext.py"
+        ],
+        "taken_from": [
+            "Multimedia/Mopidy/mopidy/ext.py"
+        ],
+        "need_read": [
+            "Scientific-Engineering/cupy/cupy/_logic/__init__.py",
+            "Scientific-Engineering/cupy/cupy/_logic/comparison.py",
+            "Scientific-Engineering/cupy/cupy/_logic/content.py",
+            "Scientific-Engineering/cupy/cupy/_logic/ext.py",
+            "Scientific-Engineering/cupy/cupy/_logic/ops.py",
+            "Scientific-Engineering/cupy/cupy/_logic/truth.py",
+            "Scientific-Engineering/cupy/cupy/_logic/type_testing.py"
+        ]
+    },
+    "s28": {
+        "completion_path": "Security/msticpy/tools/toollib",
+        "prompt": "Delete all `.py` files in the Python package `Security/msticpy/tools/toollib` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Security/msticpy/tools/toollib/usage_stats.py"
+        ],
+        "taken_from": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/utils/analytics/usage_stats.py"
+        ],
+        "need_read": [
+            "Security/msticpy/tools/toollib/__init__.py",
+            "Security/msticpy/tools/toollib/ast_parser.py",
+            "Security/msticpy/tools/toollib/import_analyzer.py",
+            "Security/msticpy/tools/toollib/module_tree.py",
+            "Security/msticpy/tools/toollib/url_checker.py",
+            "Security/msticpy/tools/toollib/url_checker_async.py",
+            "Security/msticpy/tools/toollib/usage_stats.py"
+        ]
+    },
+    "s29": {
+        "completion_path": "Software-Development/Django/django/contrib/admin/templatetags",
+        "prompt": "Delete all `.py` files in the Python package `Software-Development/Django/django/contrib/admin/templatetags` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Software-Development/Django/django/contrib/admin/templatetags/default.py"
+        ],
+        "taken_from": [
+            "Scientific-Engineering/lux/lux/action/default.py"
+        ],
+        "need_read": [
+            "Software-Development/Django/django/contrib/admin/templatetags/__init__.py",
+            "Software-Development/Django/django/contrib/admin/templatetags/admin_list.py",
+            "Software-Development/Django/django/contrib/admin/templatetags/admin_modify.py",
+            "Software-Development/Django/django/contrib/admin/templatetags/admin_urls.py",
+            "Software-Development/Django/django/contrib/admin/templatetags/base.py",
+            "Software-Development/Django/django/contrib/admin/templatetags/default.py",
+            "Software-Development/Django/django/contrib/admin/templatetags/log.py"
+        ]
+    },
+    "s30": {
+        "completion_path": "System/sshuttle/sshuttle/methods",
+        "prompt": "Delete all `.py` files in the Python package `System/sshuttle/sshuttle/methods` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "System/sshuttle/sshuttle/methods/k_means.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/models/k_means.py"
+        ],
+        "need_read": [
+            "System/sshuttle/sshuttle/methods/__init__.py",
+            "System/sshuttle/sshuttle/methods/ipfw.py",
+            "System/sshuttle/sshuttle/methods/k_means.py",
+            "System/sshuttle/sshuttle/methods/nat.py",
+            "System/sshuttle/sshuttle/methods/nft.py",
+            "System/sshuttle/sshuttle/methods/pf.py",
+            "System/sshuttle/sshuttle/methods/tproxy.py"
+        ]
+    },
+    "s31": {
+        "completion_path": "Utilities/mmcv/mmcv/image",
+        "prompt": "Delete all `.py` files in the Python package `Utilities/mmcv/mmcv/image` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Utilities/mmcv/mmcv/image/linear_regression.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/models/linear_regression.py"
+        ],
+        "need_read": [
+            "Utilities/mmcv/mmcv/image/__init__.py",
+            "Utilities/mmcv/mmcv/image/colorspace.py",
+            "Utilities/mmcv/mmcv/image/geometric.py",
+            "Utilities/mmcv/mmcv/image/io.py",
+            "Utilities/mmcv/mmcv/image/linear_regression.py",
+            "Utilities/mmcv/mmcv/image/misc.py",
+            "Utilities/mmcv/mmcv/image/photometric.py"
+        ]
+    },
+    "s32": {
+        "completion_path": "Communications/aioxmpp/aioxmpp/im",
+        "prompt": "Delete all `.py` files in the Python package `Communications/aioxmpp/aioxmpp/im` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/aioxmpp/aioxmpp/im/histograms.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/tools/histograms.py"
+        ],
+        "need_read": [
+            "Communications/aioxmpp/aioxmpp/im/__init__.py",
+            "Communications/aioxmpp/aioxmpp/im/body.py",
+            "Communications/aioxmpp/aioxmpp/im/conversation.py",
+            "Communications/aioxmpp/aioxmpp/im/dispatcher.py",
+            "Communications/aioxmpp/aioxmpp/im/histograms.py",
+            "Communications/aioxmpp/aioxmpp/im/muc.py",
+            "Communications/aioxmpp/aioxmpp/im/p2p.py",
+            "Communications/aioxmpp/aioxmpp/im/service.py"
+        ]
+    },
+    "s33": {
+        "completion_path": "Database/datasette/datasette/utils",
+        "prompt": "Delete all `.py` files in the Python package `Database/datasette/datasette/utils` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Database/datasette/datasette/utils/quantiles.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/tools/quantiles.py"
+        ],
+        "need_read": [
+            "Database/datasette/datasette/utils/__init__.py",
+            "Database/datasette/datasette/utils/asgi.py",
+            "Database/datasette/datasette/utils/baseconv.py",
+            "Database/datasette/datasette/utils/internal_db.py",
+            "Database/datasette/datasette/utils/quantiles.py",
+            "Database/datasette/datasette/utils/shutil_backport.py",
+            "Database/datasette/datasette/utils/sqlite.py",
+            "Database/datasette/datasette/utils/testing.py"
+        ]
+    },
+    "s34": {
+        "completion_path": "Internet/Authlib/authlib/oauth2/rfc6749/grants",
+        "prompt": "Delete all `.py` files in the Python package `Internet/Authlib/authlib/oauth2/rfc6749/grants` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/hadoop.py"
+        ],
+        "taken_from": [
+            "System/mrjob/mrjob/fs/hadoop.py"
+        ],
+        "need_read": [
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/__init__.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/authorization_code.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/base.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/client_credentials.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/hadoop.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/implicit.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/refresh_token.py",
+            "Internet/Authlib/authlib/oauth2/rfc6749/grants/resource_owner_password_credentials.py"
+        ]
+    },
+    "s35": {
+        "completion_path": "Multimedia/Mopidy/mopidy/audio",
+        "prompt": "Delete all `.py` files in the Python package `Multimedia/Mopidy/mopidy/audio` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Multimedia/Mopidy/mopidy/audio/hadoop.py"
+        ],
+        "taken_from": [
+            "System/mrjob/mrjob/hadoop.py"
+        ],
+        "need_read": [
+            "Multimedia/Mopidy/mopidy/audio/__init__.py",
+            "Multimedia/Mopidy/mopidy/audio/actor.py",
+            "Multimedia/Mopidy/mopidy/audio/constants.py",
+            "Multimedia/Mopidy/mopidy/audio/hadoop.py",
+            "Multimedia/Mopidy/mopidy/audio/listener.py",
+            "Multimedia/Mopidy/mopidy/audio/scan.py",
+            "Multimedia/Mopidy/mopidy/audio/tags.py",
+            "Multimedia/Mopidy/mopidy/audio/utils.py"
+        ]
+    },
+    "s36": {
+        "completion_path": "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg",
+        "prompt": "Delete all `.py` files in the Python package `Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/arguments.py"
+        ],
+        "taken_from": [
+            "System/pyinfra/pyinfra/api/arguments.py"
+        ],
+        "need_read": [
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/__init__.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/_eigen.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/_interface.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/_iterative.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/_lobpcg.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/_norm.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/_solve.py",
+            "Scientific-Engineering/cupy/cupyx/scipy/sparse/linalg/arguments.py"
+        ]
+    },
+    "s37": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/utils",
+        "prompt": "Delete all `.py` files in the Python package `Security/msticpy/msticpy/analysis/anomalous_sequence/utils` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/facts.py"
+        ],
+        "taken_from": [
+            "System/pyinfra/pyinfra/api/facts.py"
+        ],
+        "need_read": [
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/__init__.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_only.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_params_only.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_params_values.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/data_structures.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/facts.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/laplace_smooth.py",
+            "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/probabilities.py"
+        ]
+    },
+    "s38": {
+        "completion_path": "Software-Development/Django/django/contrib/gis/gdal/prototypes",
+        "prompt": "Delete all `.py` files in the Python package `Software-Development/Django/django/contrib/gis/gdal/prototypes` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/operation.py"
+        ],
+        "taken_from": [
+            "System/pyinfra/pyinfra/api/operation.py"
+        ],
+        "need_read": [
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/__init__.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/ds.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/errcheck.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/generation.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/geom.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/operation.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/raster.py",
+            "Software-Development/Django/django/contrib/gis/gdal/prototypes/srs.py"
+        ]
+    },
+    "s39": {
+        "completion_path": "System/flower/flower/views",
+        "prompt": "Delete all `.py` files in the Python package `System/flower/flower/views` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "System/flower/flower/views/os_release.py"
+        ],
+        "taken_from": [
+            "Utilities/jc/jc/parsers/os_release.py"
+        ],
+        "need_read": [
+            "System/flower/flower/views/__init__.py",
+            "System/flower/flower/views/auth.py",
+            "System/flower/flower/views/broker.py",
+            "System/flower/flower/views/error.py",
+            "System/flower/flower/views/monitor.py",
+            "System/flower/flower/views/os_release.py",
+            "System/flower/flower/views/tasks.py",
+            "System/flower/flower/views/workers.py"
+        ]
+    },
+    "s40": {
+        "completion_path": "Text-Processing/pycorrector/pycorrector/ernie",
+        "prompt": "Delete all `.py` files in the Python package `Text-Processing/pycorrector/pycorrector/ernie` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Text-Processing/pycorrector/pycorrector/ernie/algorithms.py"
+        ],
+        "taken_from": [
+            "Utilities/PyJWT/jwt/algorithms.py"
+        ],
+        "need_read": [
+            "Text-Processing/pycorrector/pycorrector/ernie/__init__.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/algorithms.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/ernie_corrector.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/file_utils.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/modeling_ernie.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/optimization.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/predict_mask.py",
+            "Text-Processing/pycorrector/pycorrector/ernie/tokenizing_ernie.py"
+        ]
+    },
+    "s41": {
+        "completion_path": "Utilities/gunicorn/gunicorn/http",
+        "prompt": "Delete all `.py` files in the Python package `Utilities/gunicorn/gunicorn/http` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Utilities/gunicorn/gunicorn/http/factory.py"
+        ],
+        "taken_from": [
+            "Communications/chatette/chatette/adapters/factory.py"
+        ],
+        "need_read": [
+            "Utilities/gunicorn/gunicorn/http/__init__.py",
+            "Utilities/gunicorn/gunicorn/http/body.py",
+            "Utilities/gunicorn/gunicorn/http/errors.py",
+            "Utilities/gunicorn/gunicorn/http/factory.py",
+            "Utilities/gunicorn/gunicorn/http/message.py",
+            "Utilities/gunicorn/gunicorn/http/parser.py",
+            "Utilities/gunicorn/gunicorn/http/unreader.py",
+            "Utilities/gunicorn/gunicorn/http/wsgi.py"
+        ]
+    },
+    "s42": {
+        "completion_path": "Communications/Telethon/telethon/crypto",
+        "prompt": "Delete all `.py` files in the Python package `Communications/Telethon/telethon/crypto` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Communications/Telethon/telethon/crypto/compare.py"
+        ],
+        "taken_from": [
+            "Database/alembic/alembic/autogenerate/compare.py"
+        ],
+        "need_read": [
+            "Communications/Telethon/telethon/crypto/__init__.py",
+            "Communications/Telethon/telethon/crypto/aes.py",
+            "Communications/Telethon/telethon/crypto/aesctr.py",
+            "Communications/Telethon/telethon/crypto/authkey.py",
+            "Communications/Telethon/telethon/crypto/cdndecrypter.py",
+            "Communications/Telethon/telethon/crypto/compare.py",
+            "Communications/Telethon/telethon/crypto/factorization.py",
+            "Communications/Telethon/telethon/crypto/libssl.py",
+            "Communications/Telethon/telethon/crypto/rsa.py"
+        ]
+    },
+    "s43": {
+        "completion_path": "Database/alembic/alembic/ddl",
+        "prompt": "Delete all `.py` files in the Python package `Database/alembic/alembic/ddl` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Database/alembic/alembic/ddl/parameters.py"
+        ],
+        "taken_from": [
+            "Internet/Authlib/authlib/oauth2/rfc6749/parameters.py"
+        ],
+        "need_read": [
+            "Database/alembic/alembic/ddl/__init__.py",
+            "Database/alembic/alembic/ddl/base.py",
+            "Database/alembic/alembic/ddl/impl.py",
+            "Database/alembic/alembic/ddl/mssql.py",
+            "Database/alembic/alembic/ddl/mysql.py",
+            "Database/alembic/alembic/ddl/oracle.py",
+            "Database/alembic/alembic/ddl/parameters.py",
+            "Database/alembic/alembic/ddl/postgresql.py",
+            "Database/alembic/alembic/ddl/sqlite.py"
+        ]
+    },
+    "s44": {
+        "completion_path": "Internet/Authlib/authlib/integrations/base_client",
+        "prompt": "Delete all `.py` files in the Python package `Internet/Authlib/authlib/integrations/base_client` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Internet/Authlib/authlib/integrations/base_client/datageometry.py"
+        ],
+        "taken_from": [
+            "Multimedia/hypertools/hypertools/datageometry.py"
+        ],
+        "need_read": [
+            "Internet/Authlib/authlib/integrations/base_client/__init__.py",
+            "Internet/Authlib/authlib/integrations/base_client/async_app.py",
+            "Internet/Authlib/authlib/integrations/base_client/async_openid.py",
+            "Internet/Authlib/authlib/integrations/base_client/datageometry.py",
+            "Internet/Authlib/authlib/integrations/base_client/errors.py",
+            "Internet/Authlib/authlib/integrations/base_client/framework_integration.py",
+            "Internet/Authlib/authlib/integrations/base_client/registry.py",
+            "Internet/Authlib/authlib/integrations/base_client/sync_app.py",
+            "Internet/Authlib/authlib/integrations/base_client/sync_openid.py"
+        ]
+    },
+    "s45": {
+        "completion_path": "Scientific-Engineering/TPOT/tpot/builtins",
+        "prompt": "Delete all `.py` files in the Python package `Scientific-Engineering/TPOT/tpot/builtins` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Scientific-Engineering/TPOT/tpot/builtins/ext.py"
+        ],
+        "taken_from": [
+            "Multimedia/Mopidy/mopidy/ext.py"
+        ],
+        "need_read": [
+            "Scientific-Engineering/TPOT/tpot/builtins/__init__.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/combine_dfs.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/ext.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/feature_set_selector.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/feature_transformers.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/nn.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/one_hot_encoder.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/stacking_estimator.py",
+            "Scientific-Engineering/TPOT/tpot/builtins/zero_count.py"
+        ]
+    },
+    "s46": {
+        "completion_path": "Security/msticpy/msticpy/init/pivot_core",
+        "prompt": "Delete all `.py` files in the Python package `Security/msticpy/msticpy/init/pivot_core` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Security/msticpy/msticpy/init/pivot_core/usage_stats.py"
+        ],
+        "taken_from": [
+            "Scientific-Engineering/bentoml/src/bentoml/_internal/utils/analytics/usage_stats.py"
+        ],
+        "need_read": [
+            "Security/msticpy/msticpy/init/pivot_core/__init__.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_browser.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_container.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_magic_core.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_pd_accessor.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_pipeline.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_register.py",
+            "Security/msticpy/msticpy/init/pivot_core/pivot_register_reader.py",
+            "Security/msticpy/msticpy/init/pivot_core/usage_stats.py"
+        ]
+    },
+    "s47": {
+        "completion_path": "Software-Development/Django/django/contrib/gis/db/backends/oracle",
+        "prompt": "Delete all `.py` files in the Python package `Software-Development/Django/django/contrib/gis/db/backends/oracle` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/default.py"
+        ],
+        "taken_from": [
+            "Scientific-Engineering/lux/lux/action/default.py"
+        ],
+        "need_read": [
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/__init__.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/adapter.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/base.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/default.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/features.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/introspection.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/models.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/operations.py",
+            "Software-Development/Django/django/contrib/gis/db/backends/oracle/schema.py"
+        ]
+    },
+    "s48": {
+        "completion_path": "System/mrjob/mrjob/fs",
+        "prompt": "Delete all `.py` files in the Python package `System/mrjob/mrjob/fs` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "System/mrjob/mrjob/fs/k_means.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/models/k_means.py"
+        ],
+        "need_read": [
+            "System/mrjob/mrjob/fs/__init__.py",
+            "System/mrjob/mrjob/fs/base.py",
+            "System/mrjob/mrjob/fs/composite.py",
+            "System/mrjob/mrjob/fs/gcs.py",
+            "System/mrjob/mrjob/fs/hadoop.py",
+            "System/mrjob/mrjob/fs/k_means.py",
+            "System/mrjob/mrjob/fs/local.py",
+            "System/mrjob/mrjob/fs/s3.py",
+            "System/mrjob/mrjob/fs/ssh.py"
+        ]
+    },
+    "s49": {
+        "completion_path": "Text-Processing/dominate/dominate",
+        "prompt": "Delete all `.py` files in the Python package `Text-Processing/dominate/dominate` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Text-Processing/dominate/dominate/linear_regression.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/models/linear_regression.py"
+        ],
+        "need_read": [
+            "Text-Processing/dominate/dominate/__init__.py",
+            "Text-Processing/dominate/dominate/_version.py",
+            "Text-Processing/dominate/dominate/document.py",
+            "Text-Processing/dominate/dominate/dom1core.py",
+            "Text-Processing/dominate/dominate/dom_tag.py",
+            "Text-Processing/dominate/dominate/linear_regression.py",
+            "Text-Processing/dominate/dominate/svg.py",
+            "Text-Processing/dominate/dominate/tags.py",
+            "Text-Processing/dominate/dominate/util.py"
+        ]
+    },
+    "s50": {
+        "completion_path": "Utilities/jc/jc/parsers/pbPlist",
+        "prompt": "Delete all `.py` files in the Python package `Utilities/jc/jc/parsers/pbPlist` that import or rely on modules that cannot be resolved.",
+        "dm": [
+            "Utilities/jc/jc/parsers/pbPlist/histograms.py"
+        ],
+        "taken_from": [
+            "Security/diffprivlib/diffprivlib/tools/histograms.py"
+        ],
+        "need_read": [
+            "Utilities/jc/jc/parsers/pbPlist/StrParse.py",
+            "Utilities/jc/jc/parsers/pbPlist/Switch.py",
+            "Utilities/jc/jc/parsers/pbPlist/__init__.py",
+            "Utilities/jc/jc/parsers/pbPlist/histograms.py",
+            "Utilities/jc/jc/parsers/pbPlist/pbItem.py",
+            "Utilities/jc/jc/parsers/pbPlist/pbParser.py",
+            "Utilities/jc/jc/parsers/pbPlist/pbPlist.py",
+            "Utilities/jc/jc/parsers/pbPlist/pbRoot.py",
+            "Utilities/jc/jc/parsers/pbPlist/pbSerializer.py"
+        ]
+    }
+}

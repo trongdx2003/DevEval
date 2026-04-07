@@ -1,0 +1,1198 @@
+{
+    "s1": {
+        "completion_path": "Text-Processing/pymorphy2/pymorphy2/opencorpora_dict/compile.py",
+        "prompt": "Can you delete the file `Text-Processing/pymorphy2/pymorphy2/opencorpora_dict/compile.py`, given the context `Text-Processing/pymorphy2`?"
+    },
+    "s2": {
+        "completion_path": "Text-Processing/feedparser/feedparser/api.py",
+        "prompt": "Can you delete the file `Text-Processing/feedparser/feedparser/api.py`, given the context `Text-Processing/feedparser`?"
+    },
+    "s3": {
+        "completion_path": "Text-Processing/feedparser/feedparser/http.py",
+        "prompt": "Can you delete the file `Text-Processing/feedparser/feedparser/http.py`, given the context `Text-Processing/feedparser`?"
+    },
+    "s4": {
+        "completion_path": "Text-Processing/PyLaTeX/pylatex/utils.py",
+        "prompt": "Can you delete the file `Text-Processing/PyLaTeX/pylatex/utils.py`, given the context `Text-Processing/PyLaTeX`?"
+    },
+    "s5": {
+        "completion_path": "Text-Processing/mistune/src/mistune/markdown.py",
+        "prompt": "Can you delete the file `Text-Processing/mistune/src/mistune/markdown.py`, given the context `Text-Processing/mistune`?"
+    },
+    "s6": {
+        "completion_path": "Text-Processing/mistune/src/mistune/__init__.py",
+        "prompt": "Can you delete the file `Text-Processing/mistune/src/mistune/__init__.py`, given the context `Text-Processing/mistune`?"
+    },
+    "s7": {
+        "completion_path": "Internet/Jinja2/src/jinja2/utils.py",
+        "prompt": "Can you delete the file `Internet/Jinja2/src/jinja2/utils.py`, given the context `Internet/Jinja2`?"
+    },
+    "s8": {
+        "completion_path": "Internet/Jinja2/src/jinja2/meta.py",
+        "prompt": "Can you delete the file `Internet/Jinja2/src/jinja2/meta.py`, given the context `Internet/Jinja2`?"
+    },
+    "s9": {
+        "completion_path": "Internet/Jinja2/src/jinja2/loaders.py",
+        "prompt": "Can you delete the file `Internet/Jinja2/src/jinja2/loaders.py`, given the context `Internet/Jinja2`?"
+    },
+    "s10": {
+        "completion_path": "Internet/sumy/sumy/summarizers/lsa.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/summarizers/lsa.py`, given the context `Internet/sumy`?"
+    },
+    "s11": {
+        "completion_path": "Internet/sumy/sumy/summarizers/sum_basic.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/summarizers/sum_basic.py`, given the context `Internet/sumy`?"
+    },
+    "s12": {
+        "completion_path": "Internet/sumy/sumy/summarizers/edmundson.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/summarizers/edmundson.py`, given the context `Internet/sumy`?"
+    },
+    "s13": {
+        "completion_path": "Internet/sumy/sumy/summarizers/reduction.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/summarizers/reduction.py`, given the context `Internet/sumy`?"
+    },
+    "s14": {
+        "completion_path": "Internet/sumy/sumy/summarizers/text_rank.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/summarizers/text_rank.py`, given the context `Internet/sumy`?"
+    },
+    "s15": {
+        "completion_path": "Internet/sumy/sumy/parsers/plaintext.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/parsers/plaintext.py`, given the context `Internet/sumy`?"
+    },
+    "s16": {
+        "completion_path": "Internet/sumy/sumy/nlp/tokenizers.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/nlp/tokenizers.py`, given the context `Internet/sumy`?"
+    },
+    "s17": {
+        "completion_path": "Internet/sumy/sumy/nlp/stemmers/__init__.py",
+        "prompt": "Can you delete the file `Internet/sumy/sumy/nlp/stemmers/__init__.py`, given the context `Internet/sumy`?"
+    },
+    "s18": {
+        "completion_path": "Internet/falcon/falcon/http_error.py",
+        "prompt": "Can you delete the file `Internet/falcon/falcon/http_error.py`, given the context `Internet/falcon`?"
+    },
+    "s19": {
+        "completion_path": "Internet/falcon/falcon/inspect.py",
+        "prompt": "Can you delete the file `Internet/falcon/falcon/inspect.py`, given the context `Internet/falcon`?"
+    },
+    "s20": {
+        "completion_path": "Internet/falcon/falcon/request.py",
+        "prompt": "Can you delete the file `Internet/falcon/falcon/request.py`, given the context `Internet/falcon`?"
+    },
+    "s21": {
+        "completion_path": "Internet/falcon/falcon/response.py",
+        "prompt": "Can you delete the file `Internet/falcon/falcon/response.py`, given the context `Internet/falcon`?"
+    },
+    "s22": {
+        "completion_path": "Internet/falcon/falcon/routing/util.py",
+        "prompt": "Can you delete the file `Internet/falcon/falcon/routing/util.py`, given the context `Internet/falcon`?"
+    },
+    "s23": {
+        "completion_path": "Internet/Authlib/authlib/oauth2/rfc6749/util.py",
+        "prompt": "Can you delete the file `Internet/Authlib/authlib/oauth2/rfc6749/util.py`, given the context `Internet/Authlib`?"
+    },
+    "s24": {
+        "completion_path": "Internet/Authlib/authlib/oauth2/rfc6749/parameters.py",
+        "prompt": "Can you delete the file `Internet/Authlib/authlib/oauth2/rfc6749/parameters.py`, given the context `Internet/Authlib`?"
+    },
+    "s25": {
+        "completion_path": "Internet/Authlib/authlib/jose/util.py",
+        "prompt": "Can you delete the file `Internet/Authlib/authlib/jose/util.py`, given the context `Internet/Authlib`?"
+    },
+    "s26": {
+        "completion_path": "Internet/python-twitter/twitter/api.py",
+        "prompt": "Can you delete the file `Internet/python-twitter/twitter/api.py`, given the context `Internet/python-twitter`?"
+    },
+    "s27": {
+        "completion_path": "Internet/djangorestframework/rest_framework/reverse.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/reverse.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s28": {
+        "completion_path": "Internet/djangorestframework/rest_framework/serializers.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/serializers.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s29": {
+        "completion_path": "Internet/djangorestframework/rest_framework/parsers.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/parsers.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s30": {
+        "completion_path": "Internet/djangorestframework/rest_framework/fields.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/fields.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s31": {
+        "completion_path": "Internet/djangorestframework/rest_framework/exceptions.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/exceptions.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s32": {
+        "completion_path": "Internet/djangorestframework/rest_framework/relations.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/relations.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s33": {
+        "completion_path": "Internet/djangorestframework/rest_framework/templatetags/rest_framework.py",
+        "prompt": "Can you delete the file `Internet/djangorestframework/rest_framework/templatetags/rest_framework.py`, given the context `Internet/djangorestframework`?"
+    },
+    "s34": {
+        "completion_path": "Internet/boto/boto/utils.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/utils.py`, given the context `Internet/boto`?"
+    },
+    "s35": {
+        "completion_path": "Internet/boto/boto/cloudsearchdomain/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cloudsearchdomain/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s36": {
+        "completion_path": "Internet/boto/boto/redshift/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/redshift/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s37": {
+        "completion_path": "Internet/boto/boto/support/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/support/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s38": {
+        "completion_path": "Internet/boto/boto/configservice/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/configservice/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s39": {
+        "completion_path": "Internet/boto/boto/cloudhsm/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cloudhsm/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s40": {
+        "completion_path": "Internet/boto/boto/logs/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/logs/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s41": {
+        "completion_path": "Internet/boto/boto/cloudsearch/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cloudsearch/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s42": {
+        "completion_path": "Internet/boto/boto/glacier/concurrent.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/glacier/concurrent.py`, given the context `Internet/boto`?"
+    },
+    "s43": {
+        "completion_path": "Internet/boto/boto/glacier/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/glacier/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s44": {
+        "completion_path": "Internet/boto/boto/ec2/networkinterface.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/networkinterface.py`, given the context `Internet/boto`?"
+    },
+    "s45": {
+        "completion_path": "Internet/boto/boto/ec2/address.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/address.py`, given the context `Internet/boto`?"
+    },
+    "s46": {
+        "completion_path": "Internet/boto/boto/ec2/ec2object.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/ec2object.py`, given the context `Internet/boto`?"
+    },
+    "s47": {
+        "completion_path": "Internet/boto/boto/ec2/connection.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/connection.py`, given the context `Internet/boto`?"
+    },
+    "s48": {
+        "completion_path": "Internet/boto/boto/ec2/volume.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/volume.py`, given the context `Internet/boto`?"
+    },
+    "s49": {
+        "completion_path": "Internet/boto/boto/ec2/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s50": {
+        "completion_path": "Internet/boto/boto/ec2/cloudwatch/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/cloudwatch/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s51": {
+        "completion_path": "Internet/boto/boto/ec2/autoscale/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/autoscale/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s52": {
+        "completion_path": "Internet/boto/boto/ec2/elb/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2/elb/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s53": {
+        "completion_path": "Internet/boto/boto/awslambda/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/awslambda/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s54": {
+        "completion_path": "Internet/boto/boto/cognito/identity/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cognito/identity/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s55": {
+        "completion_path": "Internet/boto/boto/cognito/sync/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cognito/sync/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s56": {
+        "completion_path": "Internet/boto/boto/cloudformation/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cloudformation/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s57": {
+        "completion_path": "Internet/boto/boto/route53/zone.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/route53/zone.py`, given the context `Internet/boto`?"
+    },
+    "s58": {
+        "completion_path": "Internet/boto/boto/route53/domains/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/route53/domains/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s59": {
+        "completion_path": "Internet/boto/boto/s3/bucket.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/s3/bucket.py`, given the context `Internet/boto`?"
+    },
+    "s60": {
+        "completion_path": "Internet/boto/boto/s3/connection.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/s3/connection.py`, given the context `Internet/boto`?"
+    },
+    "s61": {
+        "completion_path": "Internet/boto/boto/s3/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/s3/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s62": {
+        "completion_path": "Internet/boto/boto/directconnect/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/directconnect/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s63": {
+        "completion_path": "Internet/boto/boto/rds/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/rds/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s64": {
+        "completion_path": "Internet/boto/boto/datapipeline/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/datapipeline/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s65": {
+        "completion_path": "Internet/boto/boto/dynamodb/batch.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/dynamodb/batch.py`, given the context `Internet/boto`?"
+    },
+    "s66": {
+        "completion_path": "Internet/boto/boto/dynamodb/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/dynamodb/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s67": {
+        "completion_path": "Internet/boto/boto/beanstalk/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/beanstalk/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s68": {
+        "completion_path": "Internet/boto/boto/swf/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/swf/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s69": {
+        "completion_path": "Internet/boto/boto/opsworks/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/opsworks/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s70": {
+        "completion_path": "Internet/boto/boto/sqs/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/sqs/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s71": {
+        "completion_path": "Internet/boto/boto/rds2/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/rds2/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s72": {
+        "completion_path": "Internet/boto/boto/cloudsearch2/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cloudsearch2/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s73": {
+        "completion_path": "Internet/boto/boto/cloudtrail/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/cloudtrail/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s74": {
+        "completion_path": "Internet/boto/boto/elasticache/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/elasticache/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s75": {
+        "completion_path": "Internet/boto/boto/ses/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ses/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s76": {
+        "completion_path": "Internet/boto/boto/codedeploy/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/codedeploy/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s77": {
+        "completion_path": "Internet/boto/boto/sts/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/sts/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s78": {
+        "completion_path": "Internet/boto/boto/machinelearning/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/machinelearning/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s79": {
+        "completion_path": "Internet/boto/boto/vpc/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/vpc/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s80": {
+        "completion_path": "Internet/boto/boto/kinesis/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/kinesis/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s81": {
+        "completion_path": "Internet/boto/boto/ec2containerservice/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/ec2containerservice/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s82": {
+        "completion_path": "Internet/boto/boto/dynamodb2/table.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/dynamodb2/table.py`, given the context `Internet/boto`?"
+    },
+    "s83": {
+        "completion_path": "Internet/boto/boto/dynamodb2/items.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/dynamodb2/items.py`, given the context `Internet/boto`?"
+    },
+    "s84": {
+        "completion_path": "Internet/boto/boto/dynamodb2/__init__.py",
+        "prompt": "Can you delete the file `Internet/boto/boto/dynamodb2/__init__.py`, given the context `Internet/boto`?"
+    },
+    "s85": {
+        "completion_path": "Database/litecli/litecli/packages/completion_engine.py",
+        "prompt": "Can you delete the file `Database/litecli/litecli/packages/completion_engine.py`, given the context `Database/litecli`?"
+    },
+    "s86": {
+        "completion_path": "Database/datasette/datasette/facets.py",
+        "prompt": "Can you delete the file `Database/datasette/datasette/facets.py`, given the context `Database/datasette`?"
+    },
+    "s87": {
+        "completion_path": "Database/datasette/datasette/app.py",
+        "prompt": "Can you delete the file `Database/datasette/datasette/app.py`, given the context `Database/datasette`?"
+    },
+    "s88": {
+        "completion_path": "Internet/pyramid/src/pyramid/renderers.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/renderers.py`, given the context `Internet/pyramid`?"
+    },
+    "s89": {
+        "completion_path": "Internet/pyramid/src/pyramid/testing.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/testing.py`, given the context `Internet/pyramid`?"
+    },
+    "s90": {
+        "completion_path": "Internet/pyramid/src/pyramid/url.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/url.py`, given the context `Internet/pyramid`?"
+    },
+    "s91": {
+        "completion_path": "Internet/pyramid/src/pyramid/predicates.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/predicates.py`, given the context `Internet/pyramid`?"
+    },
+    "s92": {
+        "completion_path": "Internet/pyramid/src/pyramid/request.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/request.py`, given the context `Internet/pyramid`?"
+    },
+    "s93": {
+        "completion_path": "Internet/pyramid/src/pyramid/csrf.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/csrf.py`, given the context `Internet/pyramid`?"
+    },
+    "s94": {
+        "completion_path": "Internet/pyramid/src/pyramid/util.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/util.py`, given the context `Internet/pyramid`?"
+    },
+    "s95": {
+        "completion_path": "Internet/pyramid/src/pyramid/traversal.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/traversal.py`, given the context `Internet/pyramid`?"
+    },
+    "s96": {
+        "completion_path": "Internet/pyramid/src/pyramid/scripts/proutes.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/scripts/proutes.py`, given the context `Internet/pyramid`?"
+    },
+    "s97": {
+        "completion_path": "Internet/pyramid/src/pyramid/config/views.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/config/views.py`, given the context `Internet/pyramid`?"
+    },
+    "s98": {
+        "completion_path": "Internet/pyramid/src/pyramid/config/__init__.py",
+        "prompt": "Can you delete the file `Internet/pyramid/src/pyramid/config/__init__.py`, given the context `Internet/pyramid`?"
+    },
+    "s99": {
+        "completion_path": "Internet/kinto/kinto/core/testing.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/core/testing.py`, given the context `Internet/kinto`?"
+    },
+    "s100": {
+        "completion_path": "Internet/kinto/kinto/core/authorization.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/core/authorization.py`, given the context `Internet/kinto`?"
+    },
+    "s101": {
+        "completion_path": "Internet/kinto/kinto/core/resource/__init__.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/core/resource/__init__.py`, given the context `Internet/kinto`?"
+    },
+    "s102": {
+        "completion_path": "Internet/kinto/kinto/core/views/batch.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/core/views/batch.py`, given the context `Internet/kinto`?"
+    },
+    "s103": {
+        "completion_path": "Internet/kinto/kinto/plugins/accounts/utils.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/plugins/accounts/utils.py`, given the context `Internet/kinto`?"
+    },
+    "s104": {
+        "completion_path": "Internet/kinto/kinto/plugins/accounts/views/validation.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/plugins/accounts/views/validation.py`, given the context `Internet/kinto`?"
+    },
+    "s105": {
+        "completion_path": "Internet/kinto/kinto/plugins/openid/__init__.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/plugins/openid/__init__.py`, given the context `Internet/kinto`?"
+    },
+    "s106": {
+        "completion_path": "Internet/kinto/kinto/plugins/quotas/scripts.py",
+        "prompt": "Can you delete the file `Internet/kinto/kinto/plugins/quotas/scripts.py`, given the context `Internet/kinto`?"
+    },
+    "s107": {
+        "completion_path": "Database/alembic/alembic/config.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/config.py`, given the context `Database/alembic`?"
+    },
+    "s108": {
+        "completion_path": "Database/alembic/alembic/command.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/command.py`, given the context `Database/alembic`?"
+    },
+    "s109": {
+        "completion_path": "Database/alembic/alembic/autogenerate/compare.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/autogenerate/compare.py`, given the context `Database/alembic`?"
+    },
+    "s110": {
+        "completion_path": "Database/alembic/alembic/autogenerate/render.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/autogenerate/render.py`, given the context `Database/alembic`?"
+    },
+    "s111": {
+        "completion_path": "Database/alembic/alembic/autogenerate/api.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/autogenerate/api.py`, given the context `Database/alembic`?"
+    },
+    "s112": {
+        "completion_path": "Database/alembic/alembic/testing/env.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/testing/env.py`, given the context `Database/alembic`?"
+    },
+    "s113": {
+        "completion_path": "Database/alembic/alembic/testing/fixtures.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/testing/fixtures.py`, given the context `Database/alembic`?"
+    },
+    "s114": {
+        "completion_path": "Database/alembic/alembic/operations/schemaobj.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/operations/schemaobj.py`, given the context `Database/alembic`?"
+    },
+    "s115": {
+        "completion_path": "Database/alembic/alembic/operations/ops.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/operations/ops.py`, given the context `Database/alembic`?"
+    },
+    "s116": {
+        "completion_path": "Database/alembic/alembic/script/revision.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/script/revision.py`, given the context `Database/alembic`?"
+    },
+    "s117": {
+        "completion_path": "Database/alembic/alembic/script/write_hooks.py",
+        "prompt": "Can you delete the file `Database/alembic/alembic/script/write_hooks.py`, given the context `Database/alembic`?"
+    },
+    "s118": {
+        "completion_path": "Database/bplustree/bplustree/memory.py",
+        "prompt": "Can you delete the file `Database/bplustree/bplustree/memory.py`, given the context `Database/bplustree`?"
+    },
+    "s119": {
+        "completion_path": "Database/bplustree/bplustree/entry.py",
+        "prompt": "Can you delete the file `Database/bplustree/bplustree/entry.py`, given the context `Database/bplustree`?"
+    },
+    "s120": {
+        "completion_path": "Database/bplustree/bplustree/node.py",
+        "prompt": "Can you delete the file `Database/bplustree/bplustree/node.py`, given the context `Database/bplustree`?"
+    },
+    "s121": {
+        "completion_path": "Database/bplustree/bplustree/tree.py",
+        "prompt": "Can you delete the file `Database/bplustree/bplustree/tree.py`, given the context `Database/bplustree`?"
+    },
+    "s122": {
+        "completion_path": "Multimedia/Mopidy/mopidy/ext.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/ext.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s123": {
+        "completion_path": "Multimedia/Mopidy/mopidy/httpclient.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/httpclient.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s124": {
+        "completion_path": "Multimedia/Mopidy/mopidy/http/__init__.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/http/__init__.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s125": {
+        "completion_path": "Multimedia/Mopidy/mopidy/internal/validation.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/internal/validation.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s126": {
+        "completion_path": "Multimedia/Mopidy/mopidy/config/schemas.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/config/schemas.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s127": {
+        "completion_path": "Multimedia/Mopidy/mopidy/config/types.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/config/types.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s128": {
+        "completion_path": "Multimedia/Mopidy/mopidy/config/__init__.py",
+        "prompt": "Can you delete the file `Multimedia/Mopidy/mopidy/config/__init__.py`, given the context `Multimedia/Mopidy`?"
+    },
+    "s129": {
+        "completion_path": "Multimedia/mingus/mingus/containers/instrument.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/containers/instrument.py`, given the context `Multimedia/mingus`?"
+    },
+    "s130": {
+        "completion_path": "Multimedia/mingus/mingus/containers/bar.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/containers/bar.py`, given the context `Multimedia/mingus`?"
+    },
+    "s131": {
+        "completion_path": "Multimedia/mingus/mingus/containers/note.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/containers/note.py`, given the context `Multimedia/mingus`?"
+    },
+    "s132": {
+        "completion_path": "Multimedia/mingus/mingus/containers/note_container.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/containers/note_container.py`, given the context `Multimedia/mingus`?"
+    },
+    "s133": {
+        "completion_path": "Multimedia/mingus/mingus/core/notes.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/core/notes.py`, given the context `Multimedia/mingus`?"
+    },
+    "s134": {
+        "completion_path": "Multimedia/mingus/mingus/core/intervals.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/core/intervals.py`, given the context `Multimedia/mingus`?"
+    },
+    "s135": {
+        "completion_path": "Multimedia/mingus/mingus/core/keys.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/core/keys.py`, given the context `Multimedia/mingus`?"
+    },
+    "s136": {
+        "completion_path": "Multimedia/mingus/mingus/core/chords.py",
+        "prompt": "Can you delete the file `Multimedia/mingus/mingus/core/chords.py`, given the context `Multimedia/mingus`?"
+    },
+    "s137": {
+        "completion_path": "System/exodus-bundler/src/exodus_bundler/cli.py",
+        "prompt": "Can you delete the file `System/exodus-bundler/src/exodus_bundler/cli.py`, given the context `System/exodus-bundler`?"
+    },
+    "s138": {
+        "completion_path": "System/exodus-bundler/src/exodus_bundler/bundling.py",
+        "prompt": "Can you delete the file `System/exodus-bundler/src/exodus_bundler/bundling.py`, given the context `System/exodus-bundler`?"
+    },
+    "s139": {
+        "completion_path": "System/exodus-bundler/src/exodus_bundler/launchers.py",
+        "prompt": "Can you delete the file `System/exodus-bundler/src/exodus_bundler/launchers.py`, given the context `System/exodus-bundler`?"
+    },
+    "s140": {
+        "completion_path": "System/fs/fs/time.py",
+        "prompt": "Can you delete the file `System/fs/fs/time.py`, given the context `System/fs`?"
+    },
+    "s141": {
+        "completion_path": "System/fs/fs/path.py",
+        "prompt": "Can you delete the file `System/fs/fs/path.py`, given the context `System/fs`?"
+    },
+    "s142": {
+        "completion_path": "System/fs/fs/_ftp_parse.py",
+        "prompt": "Can you delete the file `System/fs/fs/_ftp_parse.py`, given the context `System/fs`?"
+    },
+    "s143": {
+        "completion_path": "System/fs/fs/info.py",
+        "prompt": "Can you delete the file `System/fs/fs/info.py`, given the context `System/fs`?"
+    },
+    "s144": {
+        "completion_path": "System/pyinfra/pyinfra/connectors/mech.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/connectors/mech.py`, given the context `System/pyinfra`?"
+    },
+    "s145": {
+        "completion_path": "System/pyinfra/pyinfra/connectors/ansible.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/connectors/ansible.py`, given the context `System/pyinfra`?"
+    },
+    "s146": {
+        "completion_path": "System/pyinfra/pyinfra/operations/files.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/operations/files.py`, given the context `System/pyinfra`?"
+    },
+    "s147": {
+        "completion_path": "System/pyinfra/pyinfra/operations/python.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/operations/python.py`, given the context `System/pyinfra`?"
+    },
+    "s148": {
+        "completion_path": "System/pyinfra/pyinfra/api/operation.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/api/operation.py`, given the context `System/pyinfra`?"
+    },
+    "s149": {
+        "completion_path": "System/pyinfra/pyinfra/api/facts.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/api/facts.py`, given the context `System/pyinfra`?"
+    },
+    "s150": {
+        "completion_path": "System/pyinfra/pyinfra/api/operations.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/api/operations.py`, given the context `System/pyinfra`?"
+    },
+    "s151": {
+        "completion_path": "System/pyinfra/pyinfra/api/connect.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/api/connect.py`, given the context `System/pyinfra`?"
+    },
+    "s152": {
+        "completion_path": "System/pyinfra/pyinfra/api/arguments.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra/api/arguments.py`, given the context `System/pyinfra`?"
+    },
+    "s153": {
+        "completion_path": "System/pyinfra/pyinfra_cli/commands.py",
+        "prompt": "Can you delete the file `System/pyinfra/pyinfra_cli/commands.py`, given the context `System/pyinfra`?"
+    },
+    "s154": {
+        "completion_path": "System/viztracer/src/viztracer/code_monkey.py",
+        "prompt": "Can you delete the file `System/viztracer/src/viztracer/code_monkey.py`, given the context `System/viztracer`?"
+    },
+    "s155": {
+        "completion_path": "System/wal-e/wal_e/worker/upload_pool.py",
+        "prompt": "Can you delete the file `System/wal-e/wal_e/worker/upload_pool.py`, given the context `System/wal-e`?"
+    },
+    "s156": {
+        "completion_path": "System/wal-e/wal_e/worker/pg/wal_transfer.py",
+        "prompt": "Can you delete the file `System/wal-e/wal_e/worker/pg/wal_transfer.py`, given the context `System/wal-e`?"
+    },
+    "s157": {
+        "completion_path": "System/mrjob/mrjob/job.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/job.py`, given the context `System/mrjob`?"
+    },
+    "s158": {
+        "completion_path": "System/mrjob/mrjob/hadoop.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/hadoop.py`, given the context `System/mrjob`?"
+    },
+    "s159": {
+        "completion_path": "System/mrjob/mrjob/setup.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/setup.py`, given the context `System/mrjob`?"
+    },
+    "s160": {
+        "completion_path": "System/mrjob/mrjob/local.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/local.py`, given the context `System/mrjob`?"
+    },
+    "s161": {
+        "completion_path": "System/mrjob/mrjob/conf.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/conf.py`, given the context `System/mrjob`?"
+    },
+    "s162": {
+        "completion_path": "System/mrjob/mrjob/bin.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/bin.py`, given the context `System/mrjob`?"
+    },
+    "s163": {
+        "completion_path": "System/mrjob/mrjob/util.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/util.py`, given the context `System/mrjob`?"
+    },
+    "s164": {
+        "completion_path": "System/mrjob/mrjob/parse.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/parse.py`, given the context `System/mrjob`?"
+    },
+    "s165": {
+        "completion_path": "System/mrjob/mrjob/logs/task.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/logs/task.py`, given the context `System/mrjob`?"
+    },
+    "s166": {
+        "completion_path": "System/mrjob/mrjob/logs/mixin.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/logs/mixin.py`, given the context `System/mrjob`?"
+    },
+    "s167": {
+        "completion_path": "System/mrjob/mrjob/logs/history.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/logs/history.py`, given the context `System/mrjob`?"
+    },
+    "s168": {
+        "completion_path": "System/mrjob/mrjob/logs/step.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/logs/step.py`, given the context `System/mrjob`?"
+    },
+    "s169": {
+        "completion_path": "System/mrjob/mrjob/logs/errors.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/logs/errors.py`, given the context `System/mrjob`?"
+    },
+    "s170": {
+        "completion_path": "System/mrjob/mrjob/fs/ssh.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/fs/ssh.py`, given the context `System/mrjob`?"
+    },
+    "s171": {
+        "completion_path": "System/mrjob/mrjob/fs/hadoop.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/fs/hadoop.py`, given the context `System/mrjob`?"
+    },
+    "s172": {
+        "completion_path": "System/mrjob/mrjob/fs/local.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/fs/local.py`, given the context `System/mrjob`?"
+    },
+    "s173": {
+        "completion_path": "System/mrjob/mrjob/fs/base.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/fs/base.py`, given the context `System/mrjob`?"
+    },
+    "s174": {
+        "completion_path": "System/mrjob/mrjob/examples/mr_text_classifier.py",
+        "prompt": "Can you delete the file `System/mrjob/mrjob/examples/mr_text_classifier.py`, given the context `System/mrjob`?"
+    },
+    "s175": {
+        "completion_path": "System/prometheus-client/prometheus_client/exposition.py",
+        "prompt": "Can you delete the file `System/prometheus-client/prometheus_client/exposition.py`, given the context `System/prometheus-client`?"
+    },
+    "s176": {
+        "completion_path": "System/flower/flower/command.py",
+        "prompt": "Can you delete the file `System/flower/flower/command.py`, given the context `System/flower`?"
+    },
+    "s177": {
+        "completion_path": "Security/trailscraper/trailscraper/cloudtrail.py",
+        "prompt": "Can you delete the file `Security/trailscraper/trailscraper/cloudtrail.py`, given the context `Security/trailscraper`?"
+    },
+    "s178": {
+        "completion_path": "Security/trailscraper/trailscraper/record_sources/local_directory_record_source.py",
+        "prompt": "Can you delete the file `Security/trailscraper/trailscraper/record_sources/local_directory_record_source.py`, given the context `Security/trailscraper`?"
+    },
+    "s179": {
+        "completion_path": "Security/python-taint/pyt/vulnerabilities/vulnerabilities.py",
+        "prompt": "Can you delete the file `Security/python-taint/pyt/vulnerabilities/vulnerabilities.py`, given the context `Security/python-taint`?"
+    },
+    "s180": {
+        "completion_path": "Security/principalmapper/principalmapper/querying/local_policy_simulation.py",
+        "prompt": "Can you delete the file `Security/principalmapper/principalmapper/querying/local_policy_simulation.py`, given the context `Security/principalmapper`?"
+    },
+    "s181": {
+        "completion_path": "Security/threatingestor/threatingestor/__init__.py",
+        "prompt": "Can you delete the file `Security/threatingestor/threatingestor/__init__.py`, given the context `Security/threatingestor`?"
+    },
+    "s182": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/model.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/analysis/anomalous_sequence/model.py`, given the context `Security/msticpy`?"
+    },
+    "s183": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/anomalous.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/analysis/anomalous_sequence/anomalous.py`, given the context `Security/msticpy`?"
+    },
+    "s184": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_params_only.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_params_only.py`, given the context `Security/msticpy`?"
+    },
+    "s185": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_only.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_only.py`, given the context `Security/msticpy`?"
+    },
+    "s186": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_params_values.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/analysis/anomalous_sequence/utils/cmds_params_values.py`, given the context `Security/msticpy`?"
+    },
+    "s187": {
+        "completion_path": "Security/msticpy/msticpy/analysis/anomalous_sequence/utils/probabilities.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/analysis/anomalous_sequence/utils/probabilities.py`, given the context `Security/msticpy`?"
+    },
+    "s188": {
+        "completion_path": "Security/msticpy/msticpy/auth/msal_auth.py",
+        "prompt": "Can you delete the file `Security/msticpy/msticpy/auth/msal_auth.py`, given the context `Security/msticpy`?"
+    },
+    "s189": {
+        "completion_path": "Security/zxcvbn-python/zxcvbn/matching.py",
+        "prompt": "Can you delete the file `Security/zxcvbn-python/zxcvbn/matching.py`, given the context `Security/zxcvbn-python`?"
+    },
+    "s190": {
+        "completion_path": "Security/pyOpenSSL/src/OpenSSL/rand.py",
+        "prompt": "Can you delete the file `Security/pyOpenSSL/src/OpenSSL/rand.py`, given the context `Security/pyOpenSSL`?"
+    },
+    "s191": {
+        "completion_path": "Security/asyncssh/asyncssh/kex.py",
+        "prompt": "Can you delete the file `Security/asyncssh/asyncssh/kex.py`, given the context `Security/asyncssh`?"
+    },
+    "s192": {
+        "completion_path": "Security/asyncssh/asyncssh/auth_keys.py",
+        "prompt": "Can you delete the file `Security/asyncssh/asyncssh/auth_keys.py`, given the context `Security/asyncssh`?"
+    },
+    "s193": {
+        "completion_path": "Security/asyncssh/asyncssh/public_key.py",
+        "prompt": "Can you delete the file `Security/asyncssh/asyncssh/public_key.py`, given the context `Security/asyncssh`?"
+    },
+    "s194": {
+        "completion_path": "Security/diffprivlib/diffprivlib/accountant.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/accountant.py`, given the context `Security/diffprivlib`?"
+    },
+    "s195": {
+        "completion_path": "Security/diffprivlib/diffprivlib/models/naive_bayes.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/models/naive_bayes.py`, given the context `Security/diffprivlib`?"
+    },
+    "s196": {
+        "completion_path": "Security/diffprivlib/diffprivlib/models/standard_scaler.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/models/standard_scaler.py`, given the context `Security/diffprivlib`?"
+    },
+    "s197": {
+        "completion_path": "Security/diffprivlib/diffprivlib/models/linear_regression.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/models/linear_regression.py`, given the context `Security/diffprivlib`?"
+    },
+    "s198": {
+        "completion_path": "Security/diffprivlib/diffprivlib/models/k_means.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/models/k_means.py`, given the context `Security/diffprivlib`?"
+    },
+    "s199": {
+        "completion_path": "Security/diffprivlib/diffprivlib/models/forest.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/models/forest.py`, given the context `Security/diffprivlib`?"
+    },
+    "s200": {
+        "completion_path": "Security/diffprivlib/diffprivlib/tools/histograms.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/tools/histograms.py`, given the context `Security/diffprivlib`?"
+    },
+    "s201": {
+        "completion_path": "Security/diffprivlib/diffprivlib/tools/utils.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/tools/utils.py`, given the context `Security/diffprivlib`?"
+    },
+    "s202": {
+        "completion_path": "Security/diffprivlib/diffprivlib/tools/quantiles.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/tools/quantiles.py`, given the context `Security/diffprivlib`?"
+    },
+    "s203": {
+        "completion_path": "Security/diffprivlib/diffprivlib/mechanisms/base.py",
+        "prompt": "Can you delete the file `Security/diffprivlib/diffprivlib/mechanisms/base.py`, given the context `Security/diffprivlib`?"
+    },
+    "s204": {
+        "completion_path": "Software-Development/discord-py/discord/utils.py",
+        "prompt": "Can you delete the file `Software-Development/discord-py/discord/utils.py`, given the context `Software-Development/discord-py`?"
+    },
+    "s205": {
+        "completion_path": "Software-Development/discord-py/discord/ext/tasks/__init__.py",
+        "prompt": "Can you delete the file `Software-Development/discord-py/discord/ext/tasks/__init__.py`, given the context `Software-Development/discord-py`?"
+    },
+    "s206": {
+        "completion_path": "Security/barf/barf/core/smt/smtfunction.py",
+        "prompt": "Can you delete the file `Security/barf/barf/core/smt/smtfunction.py`, given the context `Security/barf`?"
+    },
+    "s207": {
+        "completion_path": "Security/barf/barf/arch/emulator.py",
+        "prompt": "Can you delete the file `Security/barf/barf/arch/emulator.py`, given the context `Security/barf`?"
+    },
+    "s208": {
+        "completion_path": "Software-Development/Faker/faker/utils/distribution.py",
+        "prompt": "Can you delete the file `Software-Development/Faker/faker/utils/distribution.py`, given the context `Software-Development/Faker`?"
+    },
+    "s209": {
+        "completion_path": "Software-Development/Faker/faker/providers/credit_card/__init__.py",
+        "prompt": "Can you delete the file `Software-Development/Faker/faker/providers/credit_card/__init__.py`, given the context `Software-Development/Faker`?"
+    },
+    "s210": {
+        "completion_path": "Software-Development/Faker/faker/decode/__init__.py",
+        "prompt": "Can you delete the file `Software-Development/Faker/faker/decode/__init__.py`, given the context `Software-Development/Faker`?"
+    },
+    "s211": {
+        "completion_path": "Software-Development/dash/dash/_configs.py",
+        "prompt": "Can you delete the file `Software-Development/dash/dash/_configs.py`, given the context `Software-Development/dash`?"
+    },
+    "s212": {
+        "completion_path": "Software-Development/dash/dash/_grouping.py",
+        "prompt": "Can you delete the file `Software-Development/dash/dash/_grouping.py`, given the context `Software-Development/dash`?"
+    },
+    "s213": {
+        "completion_path": "Software-Development/dash/dash/_get_paths.py",
+        "prompt": "Can you delete the file `Software-Development/dash/dash/_get_paths.py`, given the context `Software-Development/dash`?"
+    },
+    "s214": {
+        "completion_path": "Software-Development/dash/dash/development/component_loader.py",
+        "prompt": "Can you delete the file `Software-Development/dash/dash/development/component_loader.py`, given the context `Software-Development/dash`?"
+    },
+    "s215": {
+        "completion_path": "Software-Development/peewee/playhouse/dataset.py",
+        "prompt": "Can you delete the file `Software-Development/peewee/playhouse/dataset.py`, given the context `Software-Development/peewee`?"
+    },
+    "s216": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/profile_report.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/profile_report.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s217": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/report/presentation/flavours/html/frequency_table.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/report/presentation/flavours/html/frequency_table.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s218": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/report/presentation/flavours/html/image.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/report/presentation/flavours/html/image.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s219": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/model/summary_algorithms.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/model/summary_algorithms.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s220": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/model/summarizer.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/model/summarizer.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s221": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/model/pandas/correlations_pandas.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/model/pandas/correlations_pandas.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s222": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/controller/console.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/controller/console.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s223": {
+        "completion_path": "Software-Development/pandas-profiling/src/ydata_profiling/utils/cache.py",
+        "prompt": "Can you delete the file `Software-Development/pandas-profiling/src/ydata_profiling/utils/cache.py`, given the context `Software-Development/pandas-profiling`?"
+    },
+    "s224": {
+        "completion_path": "Software-Development/PySnooper/pysnooper/utils.py",
+        "prompt": "Can you delete the file `Software-Development/PySnooper/pysnooper/utils.py`, given the context `Software-Development/PySnooper`?"
+    },
+    "s225": {
+        "completion_path": "Scientific-Engineering/rq/rq/serializers.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/rq/rq/serializers.py`, given the context `Scientific-Engineering/rq`?"
+    },
+    "s226": {
+        "completion_path": "Scientific-Engineering/lux/lux/action/default.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/lux/lux/action/default.py`, given the context `Scientific-Engineering/lux`?"
+    },
+    "s227": {
+        "completion_path": "Utilities/pymusic-dl/music_dl/source.py",
+        "prompt": "Can you delete the file `Utilities/pymusic-dl/music_dl/source.py`, given the context `Utilities/pymusic-dl`?"
+    },
+    "s228": {
+        "completion_path": "Utilities/PyJWT/jwt/algorithms.py",
+        "prompt": "Can you delete the file `Utilities/PyJWT/jwt/algorithms.py`, given the context `Utilities/PyJWT`?"
+    },
+    "s229": {
+        "completion_path": "Utilities/sacred/sacred/arg_parser.py",
+        "prompt": "Can you delete the file `Utilities/sacred/sacred/arg_parser.py`, given the context `Utilities/sacred`?"
+    },
+    "s230": {
+        "completion_path": "Utilities/sacred/sacred/experiment.py",
+        "prompt": "Can you delete the file `Utilities/sacred/sacred/experiment.py`, given the context `Utilities/sacred`?"
+    },
+    "s231": {
+        "completion_path": "Utilities/sacred/sacred/ingredient.py",
+        "prompt": "Can you delete the file `Utilities/sacred/sacred/ingredient.py`, given the context `Utilities/sacred`?"
+    },
+    "s232": {
+        "completion_path": "Utilities/sacred/sacred/dependencies.py",
+        "prompt": "Can you delete the file `Utilities/sacred/sacred/dependencies.py`, given the context `Utilities/sacred`?"
+    },
+    "s233": {
+        "completion_path": "Utilities/boltons/boltons/urlutils.py",
+        "prompt": "Can you delete the file `Utilities/boltons/boltons/urlutils.py`, given the context `Utilities/boltons`?"
+    },
+    "s234": {
+        "completion_path": "Utilities/gunicorn/gunicorn/config.py",
+        "prompt": "Can you delete the file `Utilities/gunicorn/gunicorn/config.py`, given the context `Utilities/gunicorn`?"
+    },
+    "s235": {
+        "completion_path": "Utilities/gunicorn/gunicorn/sock.py",
+        "prompt": "Can you delete the file `Utilities/gunicorn/gunicorn/sock.py`, given the context `Utilities/gunicorn`?"
+    },
+    "s236": {
+        "completion_path": "Utilities/gunicorn/gunicorn/http/body.py",
+        "prompt": "Can you delete the file `Utilities/gunicorn/gunicorn/http/body.py`, given the context `Utilities/gunicorn`?"
+    },
+    "s237": {
+        "completion_path": "Utilities/gunicorn/gunicorn/instrument/statsd.py",
+        "prompt": "Can you delete the file `Utilities/gunicorn/gunicorn/instrument/statsd.py`, given the context `Utilities/gunicorn`?"
+    },
+    "s238": {
+        "completion_path": "Utilities/praw/praw/models/listing/generator.py",
+        "prompt": "Can you delete the file `Utilities/praw/praw/models/listing/generator.py`, given the context `Utilities/praw`?"
+    },
+    "s239": {
+        "completion_path": "Utilities/jc/jc/cli.py",
+        "prompt": "Can you delete the file `Utilities/jc/jc/cli.py`, given the context `Utilities/jc`?"
+    },
+    "s240": {
+        "completion_path": "Utilities/jc/jc/parsers/os_release.py",
+        "prompt": "Can you delete the file `Utilities/jc/jc/parsers/os_release.py`, given the context `Utilities/jc`?"
+    },
+    "s241": {
+        "completion_path": "Utilities/jc/jc/parsers/xrandr.py",
+        "prompt": "Can you delete the file `Utilities/jc/jc/parsers/xrandr.py`, given the context `Utilities/jc`?"
+    },
+    "s242": {
+        "completion_path": "Utilities/python-for-android/pythonforandroid/archs.py",
+        "prompt": "Can you delete the file `Utilities/python-for-android/pythonforandroid/archs.py`, given the context `Utilities/python-for-android`?"
+    },
+    "s243": {
+        "completion_path": "Utilities/python-for-android/pythonforandroid/prerequisites.py",
+        "prompt": "Can you delete the file `Utilities/python-for-android/pythonforandroid/prerequisites.py`, given the context `Utilities/python-for-android`?"
+    },
+    "s244": {
+        "completion_path": "Utilities/python-for-android/pythonforandroid/recommendations.py",
+        "prompt": "Can you delete the file `Utilities/python-for-android/pythonforandroid/recommendations.py`, given the context `Utilities/python-for-android`?"
+    },
+    "s245": {
+        "completion_path": "Utilities/python-for-android/pythonforandroid/graph.py",
+        "prompt": "Can you delete the file `Utilities/python-for-android/pythonforandroid/graph.py`, given the context `Utilities/python-for-android`?"
+    },
+    "s246": {
+        "completion_path": "Utilities/python-for-android/pythonforandroid/bootstrap.py",
+        "prompt": "Can you delete the file `Utilities/python-for-android/pythonforandroid/bootstrap.py`, given the context `Utilities/python-for-android`?"
+    },
+    "s247": {
+        "completion_path": "Utilities/mackup/mackup/utils.py",
+        "prompt": "Can you delete the file `Utilities/mackup/mackup/utils.py`, given the context `Utilities/mackup`?"
+    },
+    "s248": {
+        "completion_path": "Communications/hl7/hl7/client.py",
+        "prompt": "Can you delete the file `Communications/hl7/hl7/client.py`, given the context `Communications/hl7`?"
+    },
+    "s249": {
+        "completion_path": "Communications/twtxt/twtxt/config.py",
+        "prompt": "Can you delete the file `Communications/twtxt/twtxt/config.py`, given the context `Communications/twtxt`?"
+    },
+    "s250": {
+        "completion_path": "Communications/IMAPClient/imapclient/imapclient.py",
+        "prompt": "Can you delete the file `Communications/IMAPClient/imapclient/imapclient.py`, given the context `Communications/IMAPClient`?"
+    },
+    "s251": {
+        "completion_path": "Communications/IMAPClient/imapclient/datetime_util.py",
+        "prompt": "Can you delete the file `Communications/IMAPClient/imapclient/datetime_util.py`, given the context `Communications/IMAPClient`?"
+    },
+    "s252": {
+        "completion_path": "Communications/IMAPClient/imapclient/util.py",
+        "prompt": "Can you delete the file `Communications/IMAPClient/imapclient/util.py`, given the context `Communications/IMAPClient`?"
+    },
+    "s253": {
+        "completion_path": "Communications/ehforwarderbot/ehforwarderbot/utils.py",
+        "prompt": "Can you delete the file `Communications/ehforwarderbot/ehforwarderbot/utils.py`, given the context `Communications/ehforwarderbot`?"
+    },
+    "s254": {
+        "completion_path": "Communications/ehforwarderbot/ehforwarderbot/chat.py",
+        "prompt": "Can you delete the file `Communications/ehforwarderbot/ehforwarderbot/chat.py`, given the context `Communications/ehforwarderbot`?"
+    },
+    "s255": {
+        "completion_path": "Communications/Telethon/telethon/utils.py",
+        "prompt": "Can you delete the file `Communications/Telethon/telethon/utils.py`, given the context `Communications/Telethon`?"
+    },
+    "s256": {
+        "completion_path": "Communications/Telethon/telethon/extensions/html.py",
+        "prompt": "Can you delete the file `Communications/Telethon/telethon/extensions/html.py`, given the context `Communications/Telethon`?"
+    },
+    "s257": {
+        "completion_path": "Communications/twilio-fatisar/twilio/base/serialize.py",
+        "prompt": "Can you delete the file `Communications/twilio-fatisar/twilio/base/serialize.py`, given the context `Communications/twilio-fatisar`?"
+    },
+    "s258": {
+        "completion_path": "Communications/twilio-fatisar/twilio/twiml/voice_response.py",
+        "prompt": "Can you delete the file `Communications/twilio-fatisar/twilio/twiml/voice_response.py`, given the context `Communications/twilio-fatisar`?"
+    },
+    "s259": {
+        "completion_path": "Communications/twilio-fatisar/twilio/twiml/messaging_response.py",
+        "prompt": "Can you delete the file `Communications/twilio-fatisar/twilio/twiml/messaging_response.py`, given the context `Communications/twilio-fatisar`?"
+    },
+    "s260": {
+        "completion_path": "Communications/twilio-fatisar/twilio/jwt/taskrouter/capabilities.py",
+        "prompt": "Can you delete the file `Communications/twilio-fatisar/twilio/jwt/taskrouter/capabilities.py`, given the context `Communications/twilio-fatisar`?"
+    },
+    "s261": {
+        "completion_path": "Communications/zulip-term/zulipterminal/helper.py",
+        "prompt": "Can you delete the file `Communications/zulip-term/zulipterminal/helper.py`, given the context `Communications/zulip-term`?"
+    },
+    "s262": {
+        "completion_path": "Communications/zulip-term/zulipterminal/server_url.py",
+        "prompt": "Can you delete the file `Communications/zulip-term/zulipterminal/server_url.py`, given the context `Communications/zulip-term`?"
+    },
+    "s263": {
+        "completion_path": "Communications/zulip-term/zulipterminal/ui_tools/boxes.py",
+        "prompt": "Can you delete the file `Communications/zulip-term/zulipterminal/ui_tools/boxes.py`, given the context `Communications/zulip-term`?"
+    },
+    "s264": {
+        "completion_path": "Communications/zulip-term/zulipterminal/ui_tools/utils.py",
+        "prompt": "Can you delete the file `Communications/zulip-term/zulipterminal/ui_tools/utils.py`, given the context `Communications/zulip-term`?"
+    },
+    "s265": {
+        "completion_path": "Communications/zulip-term/zulipterminal/ui_tools/buttons.py",
+        "prompt": "Can you delete the file `Communications/zulip-term/zulipterminal/ui_tools/buttons.py`, given the context `Communications/zulip-term`?"
+    },
+    "s266": {
+        "completion_path": "Communications/zulip-term/zulipterminal/config/themes.py",
+        "prompt": "Can you delete the file `Communications/zulip-term/zulipterminal/config/themes.py`, given the context `Communications/zulip-term`?"
+    },
+    "s267": {
+        "completion_path": "Multimedia/hypertools/hypertools/datageometry.py",
+        "prompt": "Can you delete the file `Multimedia/hypertools/hypertools/datageometry.py`, given the context `Multimedia/hypertools`?"
+    },
+    "s268": {
+        "completion_path": "Database/mssql-cli/mssqlcli/mssqlbuffer.py",
+        "prompt": "Can you delete the file `Database/mssql-cli/mssqlcli/mssqlbuffer.py`, given the context `Database/mssql-cli`?"
+    },
+    "s269": {
+        "completion_path": "Internet/google-api-python-client/googleapiclient/channel.py",
+        "prompt": "Can you delete the file `Internet/google-api-python-client/googleapiclient/channel.py`, given the context `Internet/google-api-python-client`?"
+    },
+    "s270": {
+        "completion_path": "Internet/google-api-python-client/googleapiclient/model.py",
+        "prompt": "Can you delete the file `Internet/google-api-python-client/googleapiclient/model.py`, given the context `Internet/google-api-python-client`?"
+    },
+    "s271": {
+        "completion_path": "Multimedia/gif-for-cli/gif_for_cli/display.py",
+        "prompt": "Can you delete the file `Multimedia/gif-for-cli/gif_for_cli/display.py`, given the context `Multimedia/gif-for-cli`?"
+    },
+    "s272": {
+        "completion_path": "Security/pycoin/pycoin/bloomfilter.py",
+        "prompt": "Can you delete the file `Security/pycoin/pycoin/bloomfilter.py`, given the context `Security/pycoin`?"
+    },
+    "s273": {
+        "completion_path": "Security/pycoin/pycoin/satoshi/IntStreamer.py",
+        "prompt": "Can you delete the file `Security/pycoin/pycoin/satoshi/IntStreamer.py`, given the context `Security/pycoin`?"
+    },
+    "s274": {
+        "completion_path": "Security/pycoin/pycoin/satoshi/stackops.py",
+        "prompt": "Can you delete the file `Security/pycoin/pycoin/satoshi/stackops.py`, given the context `Security/pycoin`?"
+    },
+    "s275": {
+        "completion_path": "Security/pycoin/pycoin/services/providers.py",
+        "prompt": "Can you delete the file `Security/pycoin/pycoin/services/providers.py`, given the context `Security/pycoin`?"
+    },
+    "s276": {
+        "completion_path": "Security/pycoin/pycoin/crack/bip32.py",
+        "prompt": "Can you delete the file `Security/pycoin/pycoin/crack/bip32.py`, given the context `Security/pycoin`?"
+    },
+    "s277": {
+        "completion_path": "Security/pycoin/pycoin/message/PeerAddress.py",
+        "prompt": "Can you delete the file `Security/pycoin/pycoin/message/PeerAddress.py`, given the context `Security/pycoin`?"
+    },
+    "s278": {
+        "completion_path": "Security/oletools/oletools/ppt_record_parser.py",
+        "prompt": "Can you delete the file `Security/oletools/oletools/ppt_record_parser.py`, given the context `Security/oletools`?"
+    },
+    "s279": {
+        "completion_path": "Security/oletools/oletools/ooxml.py",
+        "prompt": "Can you delete the file `Security/oletools/oletools/ooxml.py`, given the context `Security/oletools`?"
+    },
+    "s280": {
+        "completion_path": "Security/oletools/oletools/oleid.py",
+        "prompt": "Can you delete the file `Security/oletools/oletools/oleid.py`, given the context `Security/oletools`?"
+    },
+    "s281": {
+        "completion_path": "Security/capirca/tools/cgrep.py",
+        "prompt": "Can you delete the file `Security/capirca/tools/cgrep.py`, given the context `Security/capirca`?"
+    },
+    "s282": {
+        "completion_path": "Text-Processing/pycorrector/pycorrector/en_spell.py",
+        "prompt": "Can you delete the file `Text-Processing/pycorrector/pycorrector/en_spell.py`, given the context `Text-Processing/pycorrector`?"
+    },
+    "s283": {
+        "completion_path": "Utilities/whereami/whereami/predict.py",
+        "prompt": "Can you delete the file `Utilities/whereami/whereami/predict.py`, given the context `Utilities/whereami`?"
+    },
+    "s284": {
+        "completion_path": "Communications/chatette/chatette/cli/interactive_commands/command_strategy.py",
+        "prompt": "Can you delete the file `Communications/chatette/chatette/cli/interactive_commands/command_strategy.py`, given the context `Communications/chatette`?"
+    },
+    "s285": {
+        "completion_path": "Communications/chatette/chatette/cli/interactive_commands/unhide_command.py",
+        "prompt": "Can you delete the file `Communications/chatette/chatette/cli/interactive_commands/unhide_command.py`, given the context `Communications/chatette`?"
+    },
+    "s286": {
+        "completion_path": "Communications/chatette/chatette/adapters/factory.py",
+        "prompt": "Can you delete the file `Communications/chatette/chatette/adapters/factory.py`, given the context `Communications/chatette`?"
+    },
+    "s287": {
+        "completion_path": "Communications/chatette/chatette/parsing/__init__.py",
+        "prompt": "Can you delete the file `Communications/chatette/chatette/parsing/__init__.py`, given the context `Communications/chatette`?"
+    },
+    "s288": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/resource.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/resource.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s289": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/models/model.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/models/model.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s290": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/utils/analytics/usage_stats.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/utils/analytics/usage_stats.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s291": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/service/service.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/service/service.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s292": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/configuration/helpers.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/configuration/helpers.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s293": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/runner/strategy.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/runner/strategy.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s294": {
+        "completion_path": "Scientific-Engineering/bentoml/src/bentoml/_internal/runner/container.py",
+        "prompt": "Can you delete the file `Scientific-Engineering/bentoml/src/bentoml/_internal/runner/container.py`, given the context `Scientific-Engineering/bentoml`?"
+    },
+    "s295": {
+        "completion_path": "System/sslyze/sslyze/plugins/heartbleed_plugin.py",
+        "prompt": "Can you delete the file `System/sslyze/sslyze/plugins/heartbleed_plugin.py`, given the context `System/sslyze`?"
+    },
+    "s296": {
+        "completion_path": "System/sslyze/sslyze/plugins/session_renegotiation_plugin.py",
+        "prompt": "Can you delete the file `System/sslyze/sslyze/plugins/session_renegotiation_plugin.py`, given the context `System/sslyze`?"
+    },
+    "s297": {
+        "completion_path": "System/sslyze/sslyze/plugins/certificate_info/_cli_connector.py",
+        "prompt": "Can you delete the file `System/sslyze/sslyze/plugins/certificate_info/_cli_connector.py`, given the context `System/sslyze`?"
+    },
+    "s298": {
+        "completion_path": "System/sslyze/sslyze/plugins/certificate_info/_symantec.py",
+        "prompt": "Can you delete the file `System/sslyze/sslyze/plugins/certificate_info/_symantec.py`, given the context `System/sslyze`?"
+    },
+    "s299": {
+        "completion_path": "System/sslyze/sslyze/plugins/certificate_info/_cert_chain_analyzer.py",
+        "prompt": "Can you delete the file `System/sslyze/sslyze/plugins/certificate_info/_cert_chain_analyzer.py`, given the context `System/sslyze`?"
+    }
+}
