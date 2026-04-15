@@ -17,9 +17,6 @@ python create_delif.py
 
 **Note**: `all_*` txt files and the folder `Source_Code_no_code` are necessary.
 
-Here’s a refined version with clearer, more precise English and improved grammar while keeping it concise:
-
-
 # Installation
 ## smolagents
 ```bash
