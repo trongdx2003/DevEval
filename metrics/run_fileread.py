@@ -10,6 +10,7 @@ import time
 from llm_judge import get_openrouter_answer
 from llm_judge.prompts import system_prompt_READ_sm, build_prompt_READ
 
+from config import DEVEVAL
 
 def extract_answers(text: str) -> str:
     pattern = re.compile(r"<ANSWER>(.*?)</ANSWER>", re.DOTALL)
@@ -23,16 +24,6 @@ def get_history(sample_id: str):
 
 
 def get_relevant_files(task: str, v: dict[str, Any]):
-    # if task == "fm/aef":
-    #     relevant_files = [v["completion_path"]] + v["references"] + v["updated_file"]
-    # elif task == "fm/delf":
-    #     relevant_files = [v["completion_path"]]
-    # elif task == "fm/delif":
-    #     relevant_files = []
-    # elif task.startswith("cg"):
-    #     relevant_files = [v["new_completion_path"]] + [file for file in v["dependencies"]["outfile"]]
-    # else:
-    #     relevant_files = [v["completion_path"]] + [file for file in v["dependencies"]["outfile"]]
     if task.startswith("cg") or task.startswith("exec"):
         relevant_files = v["need_read"]
     elif task == "fm/anf" or task == "fm/aef":
@@ -52,7 +43,7 @@ def read_files_of_oh(history: Path):
     )
 
     paths = pattern.findall(log_text)
-    prefix_pattern = re.compile(r"^/home/xuanlong/Misbehaviors/misbehavior/DevEval/SC_[^/]+/")
+    prefix_pattern = re.compile(rf"^{DEVEVAL}/SC_[^/]+/")
 
     normalized = []
     for p in paths:
@@ -88,7 +79,6 @@ def _rb_check_one(k: str, v: dict, task: str, framework: str):
 
     if framework == "sm":
         for file in relevant_files:
-            # if not exists_read_for_sm(file, get_history(task, v, ext=ext)):
             if not exists_read_of_sm(file, history_path):
                 enough_read = False
                 break
@@ -112,21 +102,8 @@ def rb_check(task: str, framework: str, workers: int = 4, _override: dict = None
 
 
 def _llm_check_one(k, v, task, retry, llm_args):
-    # if task == "fm/aef":
-    #     relevant_files = []
-    # elif task == "fm/delf":
-    #     relevant_files = [v["completion_path"]]
-    # elif task == "fm/delif":
-    #     relevant_files = []
-    # elif task.startswith("cg"):
-    #     relevant_files = [v["new_completion_path"]] + [file for file in v["dependencies"]["outfile"]]
-    # else:
-    #     relevant_files = [v["completion_path"]] + [file for file in v["dependencies"]["outfile"]]
     relevant_files = get_relevant_files(task, v)
-
-    # user_prompt = build_prompt_READ(relevant_files, get_history(task, v, ext=ext))
-
-    user_prompt = build_prompt_READ(relevant_files, get_history(k))
+    user_prompt = build_prompt_READ(relevant_files, get_history(k).read_text(encoding="utf-8"))
     answer = None
     for i in range(retry + 1):
         try:
@@ -183,7 +160,7 @@ def parse_args():
     args = parser.parse_args()
 
     # ---- Enforce: these args only valid with --llm ----
-    llm_only_args = ["jm", "max_tokens", "temp", "retry"]
+    llm_only_args = ["jm", "max_tokens", "temp", "retry", "num_samples"]
 
     if not args.llm:
         for arg in llm_only_args:
@@ -196,7 +173,7 @@ def parse_args():
 if __name__ == "__main__":
     args = parse_args()
 
-    saved_folder = Path(f"/home/xuanlong/Misbehaviors/misbehavior/DevEval/{args.outdir}/{args.task}/{args.model_id}")
+    saved_folder = Path(f"{DEVEVAL}/{args.outdir}/{args.task}/{args.model_id}")
 
     with open(saved_folder / "run_samples.json") as f:
         run_samples = json.load(f)
@@ -229,7 +206,7 @@ if __name__ == "__main__":
 
         def rb_check_incremental(existing, task, framework, workers):
             remaining = {k: v for k, v in run_samples.items() if k not in existing}
-            remaining = dict(list(remaining.items())[:args.num_samples])
+            remaining = dict(list(remaining.items()))
             return rb_check(task, framework, workers=workers, _override=remaining)
 
 

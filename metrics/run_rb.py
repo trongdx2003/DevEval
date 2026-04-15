@@ -7,6 +7,8 @@ from pathlib import Path
 from rb.metrics import cmp
 from utils import merge, get_definition
 
+from config import DEVEVAL
+
 need_truth_tasks = ["cg/lv1", "cg/lv2", "cg/lv3", "exec/execute", "exec/testing", "fm/aef", "fm/anf"]
 
 def get_compare_result(model_id: str, task: str, new: bool = False):
@@ -150,7 +152,6 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--model_id", type=str, required=True)
-    #parser.add_argument("--truthdir", type=str, default="Source_Code_no_code")
     parser.add_argument("--outdir", type=str, required=True)
     parser.add_argument("--task", type=str, required=True)
     parser.add_argument("--new", action="store_true")
@@ -168,9 +169,9 @@ if __name__ == "__main__":
 
     truthdir = "Source_Code_no_code" if args.task.startswith("cg") else "Source_Code"
 
-    OLD_CODE_FOLDER = f"/home/xuanlong/Misbehaviors/misbehavior/DevEval/{truthdir}"
-    ANGENT_OUTPUTS_PATH = f"/home/xuanlong/Misbehaviors/misbehavior/DevEval/{args.outdir}"
-    saved_folder = f"/home/xuanlong/Misbehaviors/misbehavior/DevEval/{args.outdir}/{args.task}/{args.model_id}"
+    OLD_CODE_FOLDER = f"{DEVEVAL}/{truthdir}"
+    ANGENT_OUTPUTS_PATH = f"{DEVEVAL}/{args.outdir}"
+    saved_folder = f"{DEVEVAL}/{args.outdir}/{args.task}/{args.model_id}"
 
     with open(f"{ANGENT_OUTPUTS_PATH}/{args.task}/{args.model_id}/run_samples.json") as f:
         run_samples = json.load(f)
