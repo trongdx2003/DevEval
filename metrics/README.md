@@ -2,6 +2,8 @@
 * `run_fileread.py`: Evaluates the FILE READ metric (i.e., whether the model reads all required dependencies).
 * `run_rb.py`: Evaluates all metrics for completed samples, including: **Syntax, Context, Signature, Body Change, File Read, File Update, File Delete**
 
+Please give a check for `metrics/rb/parsefile.py` and `metrics/rb/metrics.py`. You may try parsing a file using the function `parse` defined in `metrics/rb/parsefile.py`.
+
 # Running
 
 ```bash 
